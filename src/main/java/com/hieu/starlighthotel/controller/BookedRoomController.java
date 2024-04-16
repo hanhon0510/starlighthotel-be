@@ -1,5 +1,3 @@
 package com.hieu.starlighthotel.controller;
 
-public class BookedRoomController {
-    
-}
+public class BookedRoomController {}
